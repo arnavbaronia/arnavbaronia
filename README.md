@@ -16,7 +16,7 @@
 - 🤝 I’m looking for collaboration on **frontend and backend web development projects!**
 - 👨‍💻 All of my projects are available at [https://github.com/arnavbaronia](https://github.com/arnavbaronia)
 - 📫 How to reach me: **arnav.baronia@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1LcdEnVxWaczlEpm7CO15NYuOk09YlSGc/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1U9b70POj4LjVo_anBtC-btxuezb1JWST/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
