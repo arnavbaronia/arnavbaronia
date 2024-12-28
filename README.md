@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavbaronia" alt="arnavbaronia" /></a> </p>
 
-- 🔭 I’m currently working on **Bluestock Fintech's IPO dashboard**
+- 🔭 I’m currently working on **NutrieDiet!**
 
 - 🌱 I’m currently learning **React, Redux, Node, Express**
 
