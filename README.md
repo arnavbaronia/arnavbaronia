@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Arnav</h1>
-<h3 align="center">Full Stack Developer | Final Year Computer Science Student at @VIT Vellore</h3>
+<h3 align="center">Front End Developer | Final Year Computer Science Student at @VIT Vellore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavbaronia&label=Profile%20views&color=0e75b6&style=flat" alt="arnavbaronia" /> </p>
 
